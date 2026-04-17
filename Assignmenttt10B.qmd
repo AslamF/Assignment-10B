@@ -1,0 +1,9 @@
+---
+title: "Assignmenttt10B"
+format: html
+editor: visual
+---
+
+# Approach 
+
+The first step will be determining which public api to use from Nobel peace prize organization. Using Different JSON methods, Join, Filter, and Compare across the data. Determining what question i want to answer after choosing an API. Determing the question and api and then coming up with meaningful JSON parsing.
